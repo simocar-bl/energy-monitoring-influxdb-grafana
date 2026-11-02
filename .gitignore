@@ -1,0 +1,13 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+packages/
+*.user
+*.csv
+*.suo
+
+# Python
+__pycache__/
+*.pyc
+.env
